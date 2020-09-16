@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 [![HitCount](http://hits.dwyl.com/palankit942/palankit942.svg)](http://hits.dwyl.com/palankit942/palankit942)
 
 I'm Ankit Kumar Pal
