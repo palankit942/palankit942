@@ -6,7 +6,7 @@ I'm Ankit Kumar Pal
 - 👯 I’m looking to collaborate on ...C++ and java
 - 🤔 I’m looking for help with ...Aws
 - 💬 Ask me about ...Anythig
-- 📫 How to reach me: ...[Linkdin profile] (https://www.linkedin.com/in/ankit-kumar-pal-bb9a1b191)
+- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/ankit-kumar-pal-bb9a1b191)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm half dead
 -->
