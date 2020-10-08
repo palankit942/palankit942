@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/palankit942/palankit942.svg)](http://hits.dwyl.com/palankit942/palankit942)
 
 I'm Ankit Kumar Pal
 I'm a quick and passionate learner.I think no matter how hard the past is, you can always begin again...
