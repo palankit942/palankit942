@@ -10,7 +10,10 @@ I love learning new technologies.
 - 🌱 I’m currently learning to manege my time and be productive.
 - 👯 I’m looking to collaborate on any idea that impresses me.
 - 💬 Ask me about ...Anythig
-- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/ankit-kumar-pal-bb9a1b191) [Gmail](palankit942@gamil.com)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I love tea  ☕ and i'm half dead
+## Reach Me ☎
+ -🔗 Connect me on [Linkedin](https://www.linkedin.com/in/ankit-kumar-pal-bb9a1b191)
+ - 📫 [Gmail](palankit942@gamil.com)
+
 
