@@ -32,18 +32,13 @@ As we all know that under engineering, technical skills always provide unique gr
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-[![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
- ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
- [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
- [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
- [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+
 
 
 
