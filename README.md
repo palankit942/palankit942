@@ -2,7 +2,7 @@
 
 
 ## About Me ✍
-I'm Ankit Kumar Pal pursuing Information Techonology Engineer with Cloud Computing.
+I'm Ankit Kumar Pal pursuing Bachelor of Technology in Information Techonology .
 I'm a quick and passionate learner.I always passionate about understanding the core concepts behind different popular Technological Fields.
 I think no matter how hard the past is, you can always begin again...
 and I believe every day is a chance to begin again.
@@ -27,8 +27,6 @@ As we all know that under engineering, technical skills always provide unique gr
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
