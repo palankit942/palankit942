@@ -19,7 +19,7 @@ I love whatever I do...and also I do whatever I love...💜
 
 ## Technical Skills 🛠 
 
-<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
+
 As we all know that under engineering, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time.
 
 
